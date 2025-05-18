@@ -57,8 +57,8 @@
 
 
 
-### Name: Sathish kumar.M
-### Register Number: 212224230256
+ Name: Sathish kumar.M
+ Register Number: 212224230256
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
